@@ -26,7 +26,7 @@ VS Code user settings has properties to increase the font-size of the source cod
 }
 ```
 ## Pay it Forward at World Community Grid
-Please join the [Ease World Community Grid team](https://join.worldcommunitygrid.org?teamId=RF7TGV6H72). Just sign up, download the software, and start crunching.
+Please join the [Daobeam World Community Grid team](https://join.worldcommunitygrid.org?teamId=RF7TGV6H72). Just sign up, download the software, and start crunching.
 
 ## License
 GNU General Public License v3.0
